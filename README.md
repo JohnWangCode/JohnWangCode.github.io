@@ -9,6 +9,7 @@
 <p>Hello friends.  This is my personal website. </p>
 <p>INSTRUCTIONS:  write codes into index.html on github.</p>
 <p>TO EDIT THIS FILE:  write codes into readme.md</p>
+<p><a href="https://johnwangcode.github.io/">click here</a> to view changes</p>
 </body>
 
 </html>
