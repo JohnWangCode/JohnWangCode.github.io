@@ -7,8 +7,8 @@
 <body>
 <h1># JohnWangCode.github.io</h1>
 <p>Hello friends.  This is my personal website. </p>
-<p>Basically I uploaded an index.html file I wrote onto github.</p>
-<p>It's a 'readme' file but now it also serves as the html file used for the website.</p>
+<p>INSTRUCTIONS:  write codes into index.html on github.</p>
+<p>TO EDIT THIS FILE:  write codes into readme.md</p>
 </body>
 
 </html>
